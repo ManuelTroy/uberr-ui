@@ -12,17 +12,7 @@ PRs are welcome ヽ(•‿•)ノ ヽ(•‿•)ノ
 
 <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/1.png" width="200" />      <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/2.png" width="200" />            <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/3.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/4.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/5.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/6.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/7.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/8.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/9.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/10.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/11.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/12.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/13.png" width="200" />           <img src="https://github.com/OLayemii/uberr-ui/blob/US-fix-flow/screenshots/14.png" width="200" />
 
-## 🦸‍♂️ Author
 
-
-**Garuba OLayemii**
-
-## 💃🏻💃🏻 Donate
-
-| **Mode**       | **Link/Wallet**                                                              |
-| -------------- | ---------------------------------------------------------------------------- |
-| Bitcoin        | 1FHRt1kFnMdMbFUiTXKL6R1ZZ29thX8BrU                                           |
-| Buy me a cofee | [https://www.buymeacoffee.com/xPGLYEr](https://www.buymeacoffee.com/xPGLYEr) |
 
 ## Special Thanks to:
 
