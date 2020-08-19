@@ -8,15 +8,15 @@ final TextStyle basicTextStyle = TextStyle(
 );
 
 final TextTheme textTheme = TextTheme(
-  body1: basicTextStyle,
-  body2: basicTextStyle.merge(TextStyle(fontSize: 14.0)),
-  title: basicTextStyle.merge(
+  bodyText2: basicTextStyle,
+  bodyText1: basicTextStyle.merge(TextStyle(fontSize: 14.0)),
+  headline6: basicTextStyle.merge(
     TextStyle(
       fontWeight: FontWeight.w700,
       fontSize: 30.0,
     ),
   ),
-  subtitle: basicTextStyle.merge(
+  subtitle2: basicTextStyle.merge(
     TextStyle(
       fontWeight: FontWeight.w600,
       fontSize: 12.0,

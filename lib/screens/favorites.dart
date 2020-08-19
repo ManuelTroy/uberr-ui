@@ -69,7 +69,7 @@ class Favorites extends StatelessWidget {
           children: <Widget>[
             Text(
               "My favorites",
-              style: _theme.textTheme.title.merge(TextStyle(fontSize: 26.0)),
+              style: _theme.textTheme.headline6.merge(TextStyle(fontSize: 26.0)),
             ),
             SizedBox(
               height: 20.0,

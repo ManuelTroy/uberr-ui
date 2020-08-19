@@ -27,7 +27,7 @@ class AddCard extends StatelessWidget {
           children: <Widget>[
             Text(
               "Add credit card",
-              style: _theme.textTheme.title,
+              style: _theme.textTheme.headline6,
             ),
             SizedBox(
               height: 50.0,

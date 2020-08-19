@@ -31,12 +31,12 @@ class WalkThroughTemplate extends StatelessWidget {
                     children: <Widget>[
                       Text(
                         title,
-                        style: _theme.textTheme.title,
+                        style: _theme.textTheme.headline6,
                       ),
                       SizedBox(height: 10.0),
                       Text(
                         subtitle,
-                        style: _theme.textTheme.body1.merge(
+                        style: _theme.textTheme.bodyText2.merge(
                           TextStyle(
                             color: Colors.grey[600],
                             height: 1.3,

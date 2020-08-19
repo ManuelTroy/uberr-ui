@@ -52,7 +52,7 @@ class Login extends StatelessWidget {
                 padding: EdgeInsets.symmetric(vertical: 20.0),
                 child: Text(
                   "Log In",
-                  style: _theme.textTheme.title.merge(
+                  style: _theme.textTheme.headline6.merge(
                     TextStyle(fontSize: 30.0),
                   ),
                 ),
@@ -92,7 +92,7 @@ class Login extends StatelessWidget {
                               child: Text(
                                 "Connect with Facebook",
                                 textAlign: TextAlign.center,
-                                style: _theme.textTheme.body1.merge(
+                                style: _theme.textTheme.bodyText2.merge(
                                   TextStyle(
                                     fontWeight: FontWeight.w500,
                                     color: Colors.white,
@@ -127,7 +127,7 @@ class Login extends StatelessWidget {
                               child: Text(
                                 "Connect with Phone number",
                                 textAlign: TextAlign.center,
-                                style: _theme.textTheme.body1.merge(
+                                style: _theme.textTheme.bodyText2.merge(
                                   TextStyle(
                                     fontWeight: FontWeight.bold,
                                     color: _theme.primaryColor,

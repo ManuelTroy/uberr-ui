@@ -28,7 +28,7 @@ class PhoneRegistration extends StatelessWidget {
                     padding: EdgeInsets.symmetric(vertical: 20.0),
                     child: Text(
                       "What is your phone number?",
-                      style: _theme.textTheme.title.merge(
+                      style: _theme.textTheme.headline6.merge(
                         TextStyle(fontSize: 30.0),
                       ),
                     ),
@@ -71,7 +71,7 @@ class PhoneRegistration extends StatelessWidget {
                 color: _theme.primaryColor,
                 child: Text(
                   "GET STARTED",
-                  style: _theme.textTheme.body1.merge(
+                  style: _theme.textTheme.bodyText2.merge(
                     TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Colors.white,

@@ -24,7 +24,7 @@ class WalkThrough extends StatelessWidget {
                   },
                   children: <Widget>[
                     WalkThroughTemplate(
-                      title: "Pay with your mobile",
+                      title: "make we dey alright",
                       subtitle:
                           "I know this is crazy, buy i tried something fresh, I hope you love it.",
                       image: Image.asset("assets/images/walkthrough1.png"),

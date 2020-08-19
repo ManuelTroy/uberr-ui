@@ -6,7 +6,6 @@ class CardContainer extends StatelessWidget {
   CardContainer({this.cardDetail});
   @override
   Widget build(BuildContext context) {
-    final ThemeData _theme = Theme.of(context);
     return Card(
       margin: EdgeInsets.all(0.0),
       child: ListTile(

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:uberr/styles/colors.dart';
 import 'package:uberr/widgets/custom_text_form_field.dart';
 
 class UpdateInformation extends StatelessWidget {
@@ -29,7 +28,7 @@ class UpdateInformation extends StatelessWidget {
                     padding: EdgeInsets.symmetric(vertical: 20.0),
                     child: Text(
                       "Update Information",
-                      style: _theme.textTheme.title.merge(
+                      style: _theme.textTheme.headline6.merge(
                         TextStyle(fontSize: 30.0),
                       ),
                     ),

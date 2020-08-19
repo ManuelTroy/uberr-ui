@@ -230,7 +230,6 @@ class _DestinationViewState extends State<DestinationView> {
   }
 
   Widget _recentPlaces() {
-    final ThemeData _theme = Theme.of(context);
     List<Place> _places = [
       Place(name: "University of Lagos", address: "056 Venim Road Yaba Lagos"),
       Place(name: "University of Lagos", address: "056 Venim Road Yaba Lagos"),

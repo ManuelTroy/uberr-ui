@@ -84,7 +84,7 @@ class _SelectCountryState extends State<SelectCountry> {
                     padding: EdgeInsets.symmetric(vertical: 20.0),
                     child: Text(
                       "Select Country",
-                      style: _theme.textTheme.title.merge(
+                      style: _theme.textTheme.headline6.merge(
                         TextStyle(fontSize: 30.0),
                       ),
                     ),
@@ -131,7 +131,7 @@ class _SelectCountryState extends State<SelectCountry> {
                                             Text(
                                               _countries[index].toUpperCase(),
                                               style:
-                                                  _theme.textTheme.title.merge(
+                                                  _theme.textTheme.headline6.merge(
                                                 TextStyle(fontSize: 18.0),
                                               ),
                                             ),

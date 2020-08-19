@@ -33,7 +33,7 @@ class Profile extends StatelessWidget {
                   Text(
                     "Hello OLayemii !",
                     style:
-                        _theme.textTheme.title.merge(TextStyle(fontSize: 26.0)),
+                        _theme.textTheme.headline6.merge(TextStyle(fontSize: 26.0)),
                   ),
                   CircleAvatar(
                     radius: 25.0,
@@ -155,7 +155,7 @@ class Profile extends StatelessWidget {
                               child: Text(
                                 "Connect with Facebook",
                                 textAlign: TextAlign.center,
-                                style: _theme.textTheme.body1.merge(
+                                style: _theme.textTheme.bodyText2.merge(
                                   TextStyle(
                                     fontWeight: FontWeight.w500,
                                     color: Colors.white,
@@ -189,7 +189,7 @@ class Profile extends StatelessWidget {
                               child: Text(
                                 "Connect with Google",
                                 textAlign: TextAlign.center,
-                                style: _theme.textTheme.body1.merge(
+                                style: _theme.textTheme.bodyText2.merge(
                                   TextStyle(
                                     fontWeight: FontWeight.bold,
                                     color: _theme.primaryColor,

@@ -82,7 +82,7 @@ class Promotions extends StatelessWidget {
                   children: <Widget>[
                     Text(
                       "My Promotions",
-                      style: _theme.textTheme.title,
+                      style: _theme.textTheme.headline6,
                     ),
                     SizedBox(
                       height: 15.0,

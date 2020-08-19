@@ -31,7 +31,7 @@ class OtpVerification extends StatelessWidget {
                     padding: EdgeInsets.symmetric(vertical: 20.0),
                     child: Text(
                       "Verify Phone Number",
-                      style: _theme.textTheme.title.merge(
+                      style: _theme.textTheme.headline6.merge(
                         TextStyle(fontSize: 30.0),
                       ),
                     ),
@@ -106,7 +106,7 @@ class OtpVerification extends StatelessWidget {
                 color: _theme.primaryColor,
                 child: Text(
                   "VERIFY",
-                  style: _theme.textTheme.body1.merge(
+                  style: _theme.textTheme.bodyText2.merge(
                     TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Colors.white,

@@ -161,7 +161,7 @@ class _HomepageState extends State<Homepage> {
                   children: <Widget>[
                     Text(
                       "Where are you going to?",
-                      style: _theme.textTheme.title,
+                      style: _theme.textTheme.headline6,
                     ),
                     SizedBox(
                       height: 10.0,

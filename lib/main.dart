@@ -4,6 +4,7 @@ import 'package:uberr/providers/walkthrough_provider.dart';
 import 'package:uberr/router.dart';
 import 'package:uberr/styles/theme_data.dart';
 
+
 void main() {
   runApp(
     ChangeNotifierProvider(

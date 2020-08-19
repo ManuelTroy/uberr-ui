@@ -51,7 +51,7 @@ class Register extends StatelessWidget {
                 padding: EdgeInsets.symmetric(vertical: 20.0),
                 child: Text(
                   "Sign Up",
-                  style: _theme.textTheme.title.merge(
+                  style: _theme.textTheme.headline6.merge(
                     TextStyle(fontSize: 30.0),
                   ),
                 ),
